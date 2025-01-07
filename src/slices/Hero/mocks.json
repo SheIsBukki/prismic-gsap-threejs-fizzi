@@ -1,0 +1,101 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Burst"
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Commodo incididunt eiusmod id eu nisi eiusmod reprehenderit labore incididunt in ex veniam ipsum. Amet minim sunt sint et est."
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Exercitation culpa deserunt eu mollit nostrud adipisicing nisi duis ipsum. Tempor ut ipsum eiusmod amet quis minim id nulla id ullamco minim veniam ea. Labore cillum veniam dolor adipisicing amet cillum ex duis nostrud."
+						}
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "difference",
+				"type": "Text"
+			},
+			"button_link": {
+				"key": "1a1b2e82-78c9-4ac3-b8cd-a86e27001bb9",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://slicemachine.dev",
+					"text": "personal"
+				}
+			},
+			"cans_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1596195689404-24d8a8d1c6ea",
+					"width": 5000,
+					"height": 4613
+				},
+				"url": "https://images.unsplash.com/photo-1596195689404-24d8a8d1c6ea",
+				"width": 5000,
+				"height": 4613,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"second_heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Country"
+						}
+					}
+				]
+			},
+			"second_body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Non est nostrud dolor laborum tempor incididunt culpa minim do."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
